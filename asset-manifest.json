@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/portMov_231124/static/css/main.68e72ae4.css",
+    "main.js": "/portMov_231124/static/js/main.f3ca81d1.js",
+    "index.html": "/portMov_231124/index.html",
+    "main.68e72ae4.css.map": "/portMov_231124/static/css/main.68e72ae4.css.map",
+    "main.f3ca81d1.js.map": "/portMov_231124/static/js/main.f3ca81d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68e72ae4.css",
+    "static/js/main.f3ca81d1.js"
+  ]
+}
